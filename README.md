@@ -1,0 +1,1 @@
+# estrazione_fail2ban.log_con_logstash_su_elasticsearch
